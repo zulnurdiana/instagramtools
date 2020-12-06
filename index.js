@@ -77,7 +77,7 @@ console.log(chalk`{bold.green
 
   Ξ TITLE  : toolsig v3.0
   Ξ UPDATE : 03/12/2020#12:00
-  Ξ EMAIL  : officialputuid@hack.id
+  Ξ EMAIL  : zulnurdiana@sgbteam.id / zulnurdiana@gmail.com
 
   116 111 111 108 115 105 103  118 51 
   }`);
@@ -90,9 +90,9 @@ console.log("  Ξ YOUIP  : ".bold.red + addresses);
 console.log(chalk`{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log(chalk`{bold.yellow
   Github ••••••••••••••••••••••••••••••••••
-  : @ccocot . @aldinp16 . @rifqihaidar
+  : @zulnurdiana . @aldinp16 . @rifqihaidar
   : @dilame . @ikiganteng . @masokky
   •••••••••••••••••••••••••••••••••••••••••
-  : IPutuJayaAdiPranata & DedeKurniawan
+  : Zulfikar Nurdiana
   : Thanks To All Member Sharing Gils Blog }\n`);
 main();
