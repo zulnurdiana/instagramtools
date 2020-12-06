@@ -16,7 +16,7 @@ $ [License](#License)
 $ [Other Information](#Other-Information)
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/zulnurdiana/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -33,7 +33,7 @@ $ [Other Information](#Other-Information)
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/zulnurdiana/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -41,7 +41,7 @@ $ [Other Information](#Other-Information)
 ## Tutorial on C9io/CodeAnywhere [WEB]
 	$ Login c9.io/login | https://codeanywhere.com/login
 	$ Select & Install Workspace + Package NodeJS
-	$ git clone https://github.com/officialputuid/toolsig.git
+	$ git clone https://github.com/zulnurdiana/toolsig.git
 	$ cd toolsig
 	$ npm i
 	$ node index.js
@@ -80,11 +80,11 @@ $ [Other Information](#Other-Information)
 
 ## Other Information
 	☆ https://github.com/dilame/instagram-private-api
-	☆ Github -> @ccocot . @aldinp16 . @rifqihaidar . @dilame . @ikiganteng . @masokky
+	☆ Github -> @ccocot . @aldinp16 . @rifqihaidar . @dilame . @ikiganteng . @masokky . @zulnurdiana
 	☆ Thank you for the help of all members SGB TEAM REBORN (https://www.sgb.or.id/).
 
 ## License
 	☑ This project is licensed under MIT License 2017-2020. https://opensource.org/licenses/MIT.
 
 ## Me!
-	☆ fb|ig|twitter|gplus|keybase|line|github|behance|medium? officialputuid.
+	☆ fb|ig|twitter|gplus|keybase|line|github|behance|medium? zulnurdiana.
